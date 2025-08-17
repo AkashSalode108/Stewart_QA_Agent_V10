@@ -1,7 +1,7 @@
 # AI QA Agent
 
 ## Overview
-This project builds an AI agent to answer questions based on uploaded documents. Uses OpenAI GPT models for natural language understanding.
+This project builds an AI agent to answer questions based on available information in documents. Uses OpenAI GPT models for natural language understanding.
 
 ## Setup
 1. Create a Python virtual environment:
@@ -30,3 +30,4 @@ streamlit run frontend/app.py
 - `backend/` → Core QA logic and helpers
 - `frontend/` → Streamlit UI
 - `data/` → Uploaded/shared documents
+
